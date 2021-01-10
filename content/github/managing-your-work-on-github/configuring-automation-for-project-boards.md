@@ -34,3 +34,4 @@ versions:
 
 ### Further reading
 - "[About automation for project boards](/articles/about-automation-for-project-boards)"
+configuring-automation-for-project-boards.md
